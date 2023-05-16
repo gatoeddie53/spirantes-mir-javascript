@@ -1,2 +1,0 @@
-# spirantes-mir-javascript
-Javascript
